@@ -3,9 +3,19 @@ entries:
   activities-service:
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2022-03-27T20:34:08.230244-04:00"
+    created: "2022-03-27T21:30:26.506201-04:00"
     description: A Helm chart for Kubernetes
-    digest: cef10ed445d92e28df8f96df3fb4b7220983220bf698acf89457820dedbcf29d
+    digest: 98f8e8309c7c2df19fbb2f863d90b2aecf66c2190dc4842dc650c5931923e716
+    name: activities-service
+    type: application
+    urls:
+    - activities-service-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v1
+    appVersion: 1.16.0
+    created: "2022-03-27T21:30:26.505632-04:00"
+    description: A Helm chart for Kubernetes
+    digest: bacf459d860064cf545eeb634a13354f79237d1d15318e179703e77116ab3754
     name: activities-service
     type: application
     urls:
@@ -14,7 +24,7 @@ entries:
   categories-service:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-27T20:34:08.231255-04:00"
+    created: "2022-03-27T21:30:26.506728-04:00"
     description: A Helm chart for Kubernetes
     digest: 353735fa0cde2513083fd2e586f3c4ce4a48f4aac5612a2af476fc221e894eda
     name: categories-service
@@ -25,7 +35,7 @@ entries:
   entities-service:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-27T20:34:08.232921-04:00"
+    created: "2022-03-27T21:30:26.507555-04:00"
     description: A Helm chart for Kubernetes
     digest: be88608a1be85ee7ed2893bb1bd247516a5fd9bb09d4807963dc573ee038bd30
     name: entities-service
@@ -33,4 +43,4 @@ entries:
     urls:
     - entities-service-0.1.3.tgz
     version: 0.1.3
-generated: "2022-03-27T20:34:08.227162-04:00"
+generated: "2022-03-27T21:30:26.504898-04:00"
